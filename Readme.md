@@ -4,4 +4,10 @@
 
 ```
 
+```cpp
+int main(){
+
+}
+```
+
 File [main.cpp](main.cpp)
